@@ -101,7 +101,7 @@ tornado==5.0.2
 tweepy==3.7.0
 urllib3==1.24.1
 virtualenv==16.0.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 xattr==0.6.4
 xlrd==1.0.0
 XlsxWriter==1.1.2
