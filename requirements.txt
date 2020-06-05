@@ -12,7 +12,7 @@ bonjour-py==0.3
 certifi==2018.11.29
 chardet==3.0.4
 cycler==0.10.0
-Django==1.11.13
+Django==1.11.29
 docx2txt==0.6
 EbookLib==0.15
 enum34==1.1.6
