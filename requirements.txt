@@ -99,7 +99,7 @@ termcolor==1.1.0
 textract==1.6.1
 tornado==5.0.2
 tweepy==3.7.0
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.0.0
 Werkzeug==0.14.1
 xattr==0.6.4
